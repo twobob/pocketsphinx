@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+	<information>
+		<name>Pocketsphinx</name>
+		<version>1.0</version>
+		<author>Twobob nshm </author>
+		<id>Pocketsphinx</id>
+	</information>
+	<menus>
+		<menu type="json" dynamic="true">menu.json</menu>
+	</menus>
+</extension>

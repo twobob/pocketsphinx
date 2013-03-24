@@ -1,0 +1,6 @@
+{
+	"items": [
+		{"name": "pocketsphinx_continuous", "priority": 1, "action": "/extensions/pocketsphinx/usr/local/bin/pocketsphinx_continuous"},
+        {"name": "pocketsphinx_continuous", "priority": 1, "action": "/extensions/pocketsphinx/stop.sh"}
+		]
+}
