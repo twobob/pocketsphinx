@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension>
 	<information>
-		<name>Pocketsphinx</name>
+		<name>Vague</name>
 		<version>1.0</version>
-		<author>Twobob nshm </author>
+		<author>Twobob nshm CMU</author>
 		<id>Pocketsphinx</id>
 	</information>
 	<menus>

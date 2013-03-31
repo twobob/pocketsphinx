@@ -1,3 +1,3 @@
 #!/bin/sh
-killall pocketsphinx_continuous
+killall echo.sh
 

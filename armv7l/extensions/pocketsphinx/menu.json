@@ -1,6 +1,6 @@
 {
 	"items": [
-		{"name": "pocketsphinx test", "priority": 1, "action": "/extensions/pocketsphinx/usr/local/bin/pocketsphinx_continuous"},
-        {"name": "pocketsphinx stop", "priority": 1, "action": "/extensions/pocketsphinx/stop.sh"}
+		{"name": "VAGUE interface", "priority": 1, "action": "/mnt/us/extensions/vague/echo.sh"},
+        {"name": "Stop being VAGUE", "priority": 1, "action": "/mnt/us/extensions/vague/stop.sh"}
 		]
 }
