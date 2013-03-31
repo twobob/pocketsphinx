@@ -1,0 +1,6 @@
+{
+	"items": [
+		{"name": "VAGUE interface", "priority": 1, "action": "/mnt/us/extensions/vague/echo.sh"},
+        {"name": "Stop being VAGUE", "priority": 1, "action": "/mnt/us/extensions/vague/stop.sh"}
+		]
+}
